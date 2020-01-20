@@ -1,0 +1,11 @@
+[
+  {
+    "name": "TrajBot (in project TrajBot)",
+    "file": "C:\\Users\\Ryan\\Documents\\2020-Testboard\\TrajBot\\build\\libs\\TrajBot.jar",
+    "extensions": [
+      "C:\\Users\\Ryan\\Documents\\2020-Testboard\\TrajBot\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\Ryan\\Documents\\2020-Testboard\\TrajBot\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
